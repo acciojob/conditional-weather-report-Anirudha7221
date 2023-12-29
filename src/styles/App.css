@@ -1,1 +1,21 @@
-
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .main {
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .above-threshold {
+    color: red;
+  }
+  
+  .below-threshold {
+    color: blue;
+  }
+  
